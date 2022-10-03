@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+
+.btnbtn-roxo {
+  background-color: purple;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 2px solid lightgray;
+  position: absolute;
+  left: 130px;
+}
+
+.secao-design_img {
+  position: relative;
+  margin-left: 15px;
+  margin-top: 50px;
+}
+
+.secao-design_listau-margin-left-medium {
+  position: absolute;
+  right: 300px;
+  top: 200px;
+}
+
+.btnbtn-transpu-margin-top-small {
+  position: absolute;
+  background-color: transparent;
+  text-decoration: none;
+  box-sizing: border-box;
+  border: 2px solid lightgray;
+  padding: 10px 32px;
+  border-radius: 10px;
+  bottom: -90px;
+  left: 100px;
+}
